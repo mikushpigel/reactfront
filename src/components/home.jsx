@@ -1,4 +1,3 @@
-import CustomInput from "./common/customInput";
 import PageHeader from "./common/pageHeader";
 import Greeting from "./greeting";
 
